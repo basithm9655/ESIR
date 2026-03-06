@@ -1,6 +1,14 @@
+# General exclusions
 .DS_Store
-Thumbs.db
-*.md
-!README.md
-.env
 node_modules/
+.env
+
+# Temporary and unwanted files
+*.png
+*.html
+!index.html
+!admin.html
+data.json
+New Empty File.md
+*.log
+*.tmp
