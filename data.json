@@ -1,0 +1,307 @@
+{
+  "publications": [
+    {
+      "type": "journal",
+      "year": 2024,
+      "title": "Advances in image processing for biomedical applications",
+      "authors": "Esakkirajan S, et al.",
+      "venue": "International Journal of Imaging Systems",
+      "cites": 12,
+      "badges": [
+        {
+          "label": "SCIE Highlight",
+          "style": "background:rgba(255,255,255,0.1); padding:4px 10px; border-radius:4px; font-size:0.75rem; margin-right: 8px;"
+        }
+      ]
+    },
+    {
+      "type": "journal",
+      "year": 2023,
+      "title": "An efficient deep-learning approach for background modeling & object detection",
+      "authors": "Esakkirajan S, Veerakumar T, et al.",
+      "venue": "IEEE Transactions on Circuits & Systems",
+      "cites": 45,
+      "badges": [
+        {
+          "label": "IEEE",
+          "style": "background:rgba(99,102,241,0.2); padding:4px 10px; border-radius:4px; font-size:0.75rem; color:var(--accent-cyan); margin-right: 8px;"
+        }
+      ]
+    },
+    {
+      "type": "journal",
+      "year": 2021,
+      "title": "Impulse noise removal using adaptive radial basis function interpolation",
+      "authors": "Esakkirajan S, et al.",
+      "venue": "Signal Processing (Elsevier)",
+      "cites": 89,
+      "badges": []
+    },
+    {
+      "type": "conference",
+      "year": 2023,
+      "title": "Deep learning approaches for object detection in embedded systems",
+      "authors": "Esakkirajan S, et al.",
+      "venue": "IEEE ICASSP",
+      "cites": 18,
+      "badges": []
+    },
+    {
+      "type": "conference",
+      "year": 2021,
+      "title": "Background modeling video surveillance via codebook approach",
+      "authors": "Esakkirajan S, Veerakumar T",
+      "venue": "CVIP",
+      "cites": 34,
+      "badges": []
+    },
+    {
+      "type": "journal",
+      "year": 2009,
+      "title": "Digital Image Processing",
+      "authors": "S. Jayaraman, S. Esakkirajan, T. Veerakumar",
+      "venue": "Tata McGraw Hill",
+      "cites": 639,
+      "badges": [],
+      "link": "https://scholar.google.co.in/citations?view_op=view_citation&hl=en&user=fEOnODMAAAAJ&citation_for_view=fEOnODMAAAAJ:u5y6O8OOUooC"
+    }
+  ],
+  "books": [
+    {
+      "title": "DIGITAL IMAGE PROCESSING, 2ND EDITION",
+      "authors": "S Jayaraman, S Esakkirajan, T Veerakumar",
+      "cover": "book1.jpg",
+      "badges": [
+        {
+          "label": "🔥 Popular Title",
+          "style": "background: rgba(251,191,36,0.15); color: #fbbf24; border: 1px solid rgba(251,191,36,0.3); font-size: 0.75rem; padding: 4px 10px; border-radius: 100px;"
+        },
+        {
+          "label": "📘 Core Textbook",
+          "style": "background: rgba(167,139,250,0.15); color: #a78bfa; border: 1px solid rgba(167,139,250,0.3); font-size: 0.75rem; padding: 4px 10px; border-radius: 100px;"
+        }
+      ],
+      "isbn": "978-9389811929",
+      "publisher": "Tata McGraw Hill",
+      "year": 2020,
+      "desc": "Focuses on the latest trends in image and video processing. Contains video processing chapter, MATLAB simulation, solved problems, and rich bank of objective questions.",
+      "link": "https://www.amazon.in/dp/9389811929?tag=esakkirajan-21",
+      "oldTabInfo": {
+        "color": "#f59e0b",
+        "emoji": "📕",
+        "meta": "2020 · TATA McGRAW HILL (2nd Ed.)"
+      }
+    },
+    {
+      "title": "Digital Image Processing",
+      "authors": "Jayaraman S, Veerakumar T, Esakkirajan S",
+      "cover": "book2.jpg",
+      "badges": [
+        {
+          "label": "📘 Core Textbook",
+          "style": "background: rgba(167,139,250,0.15); color: #a78bfa; border: 1px solid rgba(167,139,250,0.3); font-size: 0.75rem; padding: 4px 10px; border-radius: 100px;"
+        }
+      ],
+      "isbn": "978-0070144798",
+      "publisher": "Tata McGraw Hill",
+      "year": 2009,
+      "desc": "A clear, comprehensive, and up-to-date introduction to Digital Image Processing in a pragmatic style with illustrative approaches and MATLAB applications.",
+      "link": "https://www.amazon.in/dp/0070144796?tag=esakkirajan-21",
+      "oldTabInfo": {
+        "color": "#8b5cf6",
+        "emoji": "📒",
+        "meta": "2009 · TATA McGRAW HILL (1st Ed.)"
+      }
+    },
+    {
+      "title": "Fundamentals of Relational Database Management Systems",
+      "authors": "S. Sumathi, S. Esakkirajan",
+      "cover": "book3.jpg",
+      "badges": [
+        {
+          "label": "🧠 Advanced Reference",
+          "style": "background: rgba(52,211,153,0.15); color: #34d399; border: 1px solid rgba(52,211,153,0.3); font-size: 0.75rem; padding: 4px 10px; border-radius: 100px;"
+        }
+      ],
+      "isbn": "978-3642080122",
+      "publisher": "Springer-Verlag",
+      "year": 2007,
+      "desc": "Provides comprehensive coverage of database management systems fundamentals. Essential for understanding relational data modeling, its purpose, nature, and standards.",
+      "link": "https://www.amazon.in/dp/364208012X?tag=esakkirajan-21",
+      "oldTabInfo": {
+        "color": "#ec4899",
+        "emoji": "📓",
+        "meta": "2007 · SPRINGER-VERLAG"
+      }
+    },
+    {
+      "title": "Digital Signal Processing",
+      "authors": "S. Esakkirajan, T. Veerakumar, Badri N Subudhi",
+      "cover": "book4.jpg",
+      "badges": [
+        {
+          "label": "📘 Core Textbook",
+          "style": "background: rgba(167,139,250,0.15); color: #a78bfa; border: 1px solid rgba(167,139,250,0.3); font-size: 0.75rem; padding: 4px 10px; border-radius: 100px;"
+        }
+      ],
+      "isbn": "978-9354600293",
+      "publisher": "Tata McGraw Hill",
+      "year": 2021,
+      "desc": "Comprehensive textbook covering basic and advanced concepts of signal processing. Includes time-frequency representation, step-by-step derivations, and MATLAB examples.",
+      "link": "https://www.amazon.in/dp/9354600298?tag=esakkirajan-21",
+      "oldTabInfo": {
+        "color": "#10b981",
+        "emoji": "📙",
+        "meta": "2021 · TATA McGRAW HILL"
+      }
+    },
+    {
+      "title": "Digital Image Processing: Illustration Using Python",
+      "authors": "S Esakkirajan, T. Veerakumar, Badri Narayan Subudhi",
+      "cover": "book5.jpg",
+      "badges": [
+        {
+          "label": "⭐ Most Recent",
+          "style": "background: rgba(56,189,248,0.15); color: #38bdf8; border: 1px solid rgba(56,189,248,0.3); font-size: 0.75rem; padding: 4px 10px; border-radius: 100px;"
+        }
+      ],
+      "isbn": "978-9819663814",
+      "publisher": "Springer",
+      "year": 2025,
+      "desc": "A practical guide to digital image processing using Python, presenting fundamental concepts, techniques, and algorithms with illustrative examples.",
+      "link": "https://www.amazon.in/dp/9819663814?tag=esakkirajan-21",
+      "oldTabInfo": {
+        "color": "#6366f1",
+        "emoji": "📘",
+        "meta": "2025 · SPRINGER, SINGAPORE"
+      }
+    },
+    {
+      "title": "Digital Signal Processing: Illustration Using Python",
+      "authors": "S Esakkirajan, T Veerakumar, Badri N Subudhi",
+      "cover": "book6.jpg",
+      "badges": [
+        {
+          "label": "⭐ Most Recent",
+          "style": "background: rgba(56,189,248,0.15); color: #38bdf8; border: 1px solid rgba(56,189,248,0.3); font-size: 0.75rem; padding: 4px 10px; border-radius: 100px;"
+        }
+      ],
+      "isbn": "978-9819967813",
+      "publisher": "Springer",
+      "year": 2024,
+      "desc": "Focuses on developing signal processing algorithms using Python. Open-source friendly, includes prelab questions, exercises, and objective questions.",
+      "link": "https://www.amazon.in/dp/B0CJHNSY6Z?tag=esakkirajan-21",
+      "oldTabInfo": {
+        "color": "#06b6d4",
+        "emoji": "📗",
+        "meta": "2024 · SPRINGER, SINGAPORE"
+      }
+    }
+  ],
+  "patents": [
+    {
+      "icon": "🌊",
+      "color": "var(--accent-indigo)",
+      "category": "USA PROVISIONAL PATENT · Computer Vision",
+      "categoryColor": "var(--accent-cyan)",
+      "title": "Image Enhancement and Object Detection System for Degraded Underwater Images using Zero-Reference Deep Curve Estimation and G-Unet",
+      "authors": "S. Esakkirajan et al. · Underwater Imaging Technology"
+    },
+    {
+      "icon": "🌑",
+      "color": "var(--accent-pink)",
+      "category": "USA PROVISIONAL PATENT · AI & Vision",
+      "categoryColor": "#f472b6",
+      "title": "Action Detection System for Dark Videos using Spatio-Temporal Features and Bidirectional Encoder Representations from Transformers (BERT)",
+      "authors": "S. Esakkirajan et al. · Low-Light Video AI"
+    },
+    {
+      "icon": "🌡️",
+      "color": "#f59e0b",
+      "category": "USA PROVISIONAL PATENT · Surveillance",
+      "categoryColor": "#fbbf24",
+      "title": "System and Method for Thermal Video Surveillance Based on Pyramidal Pooling Architecture",
+      "authors": "S. Esakkirajan et al. · Thermal Imaging Systems"
+    }
+  ],
+  "experience": [
+    {
+      "year": "2004 — Present",
+      "title": "Professor of Engineering",
+      "org": "PSG College of Technology, Coimbatore<br>Dept. of Instrumentation & Control Systems.",
+      "color": ""
+    },
+    {
+      "year": "2019",
+      "title": "Ph.D Graduation",
+      "org": "Anna University, Chennai<br>Advanced specializations in Digital Signal/Image Processing.",
+      "color": "var(--accent-pink)"
+    }
+  ],
+  "academicIds": [
+    {
+      "name": "ORCID iD",
+      "icon": "🟢",
+      "iconColor": "",
+      "val": "0000-0002-5396-6226",
+      "valColor": "",
+      "link": "https://orcid.org/0000-0002-5396-6226",
+      "delay": "0"
+    },
+    {
+      "name": "Scopus Author",
+      "icon": "🔶",
+      "iconColor": "",
+      "val": "16051889700",
+      "valColor": "",
+      "link": "http://www.scopus.com/authid/detail.url?authorId=16051889700",
+      "delay": "delay-1"
+    },
+    {
+      "name": "Web of Science",
+      "icon": "🔵",
+      "iconColor": "",
+      "val": "AAC11552019",
+      "valColor": "",
+      "link": "https://www.webofscience.com/wos/author/rid/AAC11552019",
+      "delay": "delay-2"
+    },
+    {
+      "name": "LinkedIn",
+      "icon": "in",
+      "iconColor": "#60a5fa",
+      "val": "dr-esakkirajan-s-psgct",
+      "valColor": "#60a5fa",
+      "link": "https://www.linkedin.com/in/dr-esakkirajan-s-psgct-0905aa224/",
+      "delay": "0"
+    },
+    {
+      "name": "ResearchGate",
+      "icon": "🔬",
+      "iconColor": "",
+      "val": "S-Esakkirajan-69985125",
+      "valColor": "#34d399",
+      "link": "https://www.researchgate.net/scientific-contributions/S-Esakkirajan-69985125",
+      "delay": "delay-1"
+    },
+    {
+      "name": "Google Scholar",
+      "icon": "🎓",
+      "iconColor": "",
+      "val": "fEOnODMAAAAJ",
+      "valColor": "",
+      "link": "https://scholar.google.co.in/citations?user=fEOnODMAAAAJ&hl=en",
+      "delay": "delay-2"
+    },
+    {
+      "name": "Books Available on Amazon India",
+      "icon": "📚",
+      "iconColor": "",
+      "val": "amazon.in — S. Esakkirajan titles",
+      "valColor": "#fbbf24",
+      "link": "https://www.amazon.in/Books-S-Esakkirajan/s?rh=n%3A976389031%2Cp_27%3AS.%2BEsakkirajan",
+      "delay": "0",
+      "fullWidth": true
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+*.md
+!README.md
+.env
+node_modules/
